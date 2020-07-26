@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on della.press</title>
+    
+    
+    
+    <link>http://dellapress.github.io/tags/</link>
+    <description>Recent content in Tags on della.press</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://dellapress.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Della</title>
+      <link>http://dellapress.github.io/tags/della/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 -0700</pubDate>
+      
+      <guid>http://dellapress.github.io/tags/della/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>李笑来</title>
+      <link>http://dellapress.github.io/tags/%E6%9D%8E%E7%AC%91%E6%9D%A5/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 -0700</pubDate>
+      
+      <guid>http://dellapress.github.io/tags/%E6%9D%8E%E7%AC%91%E6%9D%A5/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

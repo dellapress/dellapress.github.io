@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on della.press</title>
+    
+    
+    
+    <link>http://dellapress.github.io/categories/</link>
+    <description>Recent content in Categories on della.press</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://dellapress.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Della</title>
+      <link>http://dellapress.github.io/categories/della/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 -0700</pubDate>
+      
+      <guid>http://dellapress.github.io/categories/della/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>其他</title>
+      <link>http://dellapress.github.io/categories/%E5%85%B6%E4%BB%96/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 -0700</pubDate>
+      
+      <guid>http://dellapress.github.io/categories/%E5%85%B6%E4%BB%96/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
